@@ -24,4 +24,7 @@ ability to access its services also shape entry into that health system such tha
 
 Characteristics of neighborhood are also associated with health system entry in ways that may bias EHR-based analyses. Measures of social cohesion, safety, and the built environment are associated with the use of primary care services
 
+
+The potential for neighborhood characteristics to introduce bias in EHR-based analyses is exacerbated by the relationship between those same characteristics and health outcomes. Both neighborhood socioeconomic characteristics (Carroll-Scott et al. 2013; Rees et al. 2020) and racial composition (Bell et al. 2006; Kotecki et al. 2019) are associated with the prevalence of a wide-range of children’s health outcomes, which in-turn drive entry into a health system. These characteristics also likely combine to uniquely shape health risks and access to care (Beck et al. 2020).
+
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/. ]
