@@ -76,6 +76,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/
 
 ##### inconsistensy 
 
+
+For numerous reasons, the single appearance of a diagnostic code does not necessarily indicate that a patient has a disease. For example, in identifying chronic rhinosinusitis, Hsu and colleagues found that the positive predictive value (PPV) for the ICD-9 (International Classification of Diseases) code 471.x for nasal polyps was 85%, whereas 473.x for chronic sinusitis had a PPV of only 34% (54). With additional information—evaluation by an otorhinolaryngologist, for example—the PPV rose to 91%. The accuracy of disease definition is often improved by using ICD-9 codes and other information over time and is often better in relation to more severe disease (e.g., myocardial infarction). 
+
+
 Even though diagnostic codes provide critical information on an individual’s health status, providers may not use them consistently, and the meaning of any given code may vary among providers and across time.
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/  
