@@ -13,6 +13,9 @@ where c is the geographic unit (county or census tract), EHR count is the number
 
 ### Benefits of Combined Electronic healht records and Census/survey data
 
+data domain in EHR --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/table/T1/?report=objectonly
+
+
 Neighborhood disparities in health outcomes can reflect unequal access to social and economic resources—often resulting from differences in neighborhood socioeconomic characteristics or structural forms of racism—that shape both individuals’ risk of illness and access to adequate health care services (Aysola, Orav, and Ayanian 2011; Beck et al. 2017, 2020). Public health policies and programs that leverage local data are essential for targeting the underlying causes of disease to improve population health (Acevedo-Garcia et al. 2008; Beck et al. 2017). Health surveys that describe individuals’ health profiles allow for population representative analyses at the national or state levels but often constrain accurate descriptions at smaller levels of geography because of small sample size (Birkhead 2017; Tomasallo et al. 2014).
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
@@ -58,7 +61,11 @@ because EHRs are primarily used for administrative purposes, their structure can
 
 EHRs were originally developed for billing purposes. However, their purview has expanded, motivated by meaningful use requirements expressed in the Health Information Technology for Economic and Clinical Health (HITECH) Act, part of the 2009 American Recovery and Reinvestment Act
 
+
+
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
+
+
 
 ### bias of EHR, and realtion to Neighbourhood :
 
