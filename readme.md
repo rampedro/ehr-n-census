@@ -26,6 +26,12 @@ Not simply a digital version of a paper record (127), EHRs can be linked to cont
 
 Social scientists, health practitioners, and policymakers can use EHR data to evaluate the prevalence of chronic diseases among local children, to compare prevalence rates across subgroups and small geographic areas, and to examine changes in rates over time
 
+##### The utilization of EHR data:
+
+can have multiple applications, including making aggregated census tract data on children’s health publicly available on an interactive webpage that allows policymakers and community organizers to examine current health patterns when developing public health strategies or community-based programs
+
+ EHRs can also be combined with contextual data accessed from data sources such as the ACS or through partnerships with community organizations to provide a multidimensional understanding of the relationship between individual and neighborhood characteristics and health outcomes.
+
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 
