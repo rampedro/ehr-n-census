@@ -40,6 +40,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.
 ###### main categorie of SDOH
 
 The main components of the SDOH commonly gathered in medicine are grouped into five domains: economic stability, education access and quality, healthcare access and equity, social and community context, and neighborhood and built environment [5]. 
+
+Though noted separately, each domain is interconnected to match the complexity of SDOH variables and represent SDOH at both the population and individual levels [6,7].
+
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.  
 
 
