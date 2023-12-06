@@ -41,6 +41,11 @@ Using EHR data to evaluate patterns of specialty and emergency department use ac
 
 ### bias of EHR, and realtion to Neighbourhood :
 
+For example, when using EHRs to identify hot spots of disease or evaluate relationships between neighborhood characteristics and health outcomes, researchers and practitioners must account for selection biases related to who is captured in EHR data based on neighborhood characteristics, such as spatial proximity to adjacent health systems, racial-ethnic composition of neighborhoods, and poverty rates
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
+
+
 ability to access its services also shape entry into that health system such that the population included in EHRs is often not representative of the target population to whom reference is made (Bower et al. 2017). Prior work suggests that individual characteristics such as gender, age, race, ethnicity, socioeconomic status and health insurance coverage predict health system entry and utilization
 
 Characteristics of neighborhood are also associated with health system entry in ways that may bias EHR-based analyses. Measures of social cohesion, safety, and the built environment are associated with the use of primary care services
