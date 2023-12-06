@@ -1,4 +1,4 @@
-# Directions
+# Directions EHR and public data
 
 ### Creating new packages in R for Processing geo enabled EHR, & Census Data .
 
@@ -66,6 +66,11 @@ EHRs were originally developed for billing purposes. However, their purview has 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
 
+##### inconsistensy 
+
+Even though diagnostic codes provide critical information on an individual’s health status, providers may not use them consistently, and the meaning of any given code may vary among providers and across time.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/  
 
 ### bias of EHR, and realtion to Neighbourhood :
 
