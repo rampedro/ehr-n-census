@@ -66,6 +66,14 @@ EHRs were originally developed for billing purposes. However, their purview has 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
 
+
+
+#### Gaps
+
+Researchers may find it difficult to interpret gaps in care in the EHR. When a patient lacks data, one cannot distinguish between patients who have left care, who have been well and have not sought care, or who have missed routine visits for other reasons. This ambiguity in whether patients are under observation is relevant to the person-time documentation required for estimating incidence rates. If patients enter care before an EHR has been implemented in a given system, some domains or events may not be captured and available for study (i.e., left-censored). Conversely, if they exit care, EHR data will lack information on events occurring after that time (i.e., right-censored)
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/  
+
 ##### inconsistensy 
 
 Even though diagnostic codes provide critical information on an individual’s health status, providers may not use them consistently, and the meaning of any given code may vary among providers and across time.
