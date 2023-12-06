@@ -22,6 +22,11 @@ Not simply a digital version of a paper record (127), EHRs can be linked to cont
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/. ]
 
+### EHR tasks
+
+Social scientists, health practitioners, and policymakers can use EHR data to evaluate the prevalence of chronic diseases among local children, to compare prevalence rates across subgroups and small geographic areas, and to examine changes in rates over time
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 
 ### bias of EHR, and realtion to Neighbourhood :
