@@ -49,9 +49,16 @@ Using EHR data to evaluate patterns of specialty and emergency department use ac
 because EHRs are primarily used for administrative purposes, their structure can complicate data extraction and coding for population health studie .Furthermore, while developing the coding scheme for health conditions can be complex for EHRs, this information can be shared across research teams to reduce burdens and ensure consistency of health condition definitions across studies.
 
  information biases are introduced when patients seek specialized care outside of a health system or discontinue follow-up appointments, so that one system’s EHRs do not provide a full picture of individuals’ health profiles
+
+
+ EHRs re made for adminestrative purposes
  
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
+
+EHRs were originally developed for billing purposes. However, their purview has expanded, motivated by meaningful use requirements expressed in the Health Information Technology for Economic and Clinical Health (HITECH) Act, part of the 2009 American Recovery and Reinvestment Act
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
 ### bias of EHR, and realtion to Neighbourhood :
 
