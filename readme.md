@@ -15,6 +15,8 @@ where c is the geographic unit (county or census tract), EHR count is the number
 
  SDOH are utilized in clinical care and research studies by way of electronic health records (EHRs) which are the primary way to capture real-world data from providers on patient encounters in a health system [14]. EHRs provide a unique opportunity to study the relationship between SDOH and the management and outcomes of clinical diseases through real-world data (RWD). RWD captured in EHRs are used to develop real-world evidence (RWE) studies that analyze data and inform providers about the causes of different treatment strategies, disease risk, quality of life, and outcomes for different patients and populations
 
+the roles that the SDOH play in various chronic illnesses and diseases are ill-defined but have the potential to address population- and person-specific questions in the future
+
 Research shows that public health goals cannot be realized without addressing the underlying SDOH that contribute to disparities and outcomes 
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.
