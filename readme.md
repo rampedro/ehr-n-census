@@ -37,6 +37,12 @@ A patient’s SDOH can be used to estimate their access to healthcare and treatm
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.  
 
+###### main categorie of SDOH
+
+The main components of the SDOH commonly gathered in medicine are grouped into five domains: economic stability, education access and quality, healthcare access and equity, social and community context, and neighborhood and built environment [5]. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.  
+
+
 ##### Recommendations for EHR DATA EXTENTIONS
 
 Although data on physical activity and other important behaviors and social risks are not routinely captured (2, 16), the Institute of Medicine has recommended that these and other domains be integrated into routine EHR data collection, including four existing (i.e., race/ethnicity, current address, alcohol use, and tobacco use) and eight new domains (e.g., stress, social isolation, physical activity) (27).
