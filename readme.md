@@ -1,9 +1,15 @@
-# ToDo
+# Directions
 
 ### Creating new packages in R for Processing geo enabled EHR, & Census Data .
 
+### Some Analytics for EHR and census data
 
+Next, we examine the rate at which the DUHS EHRs capture the county population of children. We estimate capture rates as:
 
+𝐶𝑎𝑝𝑡𝑢𝑟𝑒𝑅𝑎𝑡𝑒𝑐= 𝐸𝐻𝑅𝑐𝑜𝑢𝑛𝑡𝑐/𝐴𝐶𝑆𝑒𝑠𝑡𝑖𝑚𝑎𝑡𝑒𝑐,
+where c is the geographic unit (county or census tract), EHR count is the number of children in the EHR cohort who have at least one relevant encounter and reside in the geographic unit, and ACS estimate is the ACS-estimated number of children residing in the geographic unit. Thus, the capture rates are measured as the estimated proportion of children with at least one relevant DUHS encounter during the study period in a defined area
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 ### Benefits of Combined Electronic healht records and Census/survey data
 
