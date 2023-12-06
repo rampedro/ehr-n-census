@@ -66,7 +66,11 @@ EHRs were originally developed for billing purposes. However, their purview has 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
 
+#### free text and lack of ICD code
 
+For example, Wasserman et al. (129) searched text notes for 465 children and found fever reported in 278 different ways (e.g., “fever,” “pyrexia,” “elevated temp”). One approach to deal with nuanced clinical text is to use open source natural language processing tools. These can extract text relevant to defining disease stage, severity, and progression or symptoms (6, 124), which may not be well captured by diagnostic codes. For instance, Andersen et al. (6) used natural language processing to extract suicidal ideation from clinical notes on >3 million Americans from 1700 primary care physicians and found that only 3% of patients with recorded suicidal ideation had a corresponding ICD-9 code.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/  
 
 #### Gaps
 
