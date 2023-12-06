@@ -22,11 +22,6 @@ Not simply a digital version of a paper record (127), EHRs can be linked to cont
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/. ]
 
-### challenges of EHR
-
- ecause EHRs are primarily used for administrative purposes, their structure can complicate data extraction and coding for population health studie .Furthermore, while developing the coding scheme for health conditions can be complex for EHRs, this information can be shared across research teams to reduce burdens and ensure consistency of health condition definitions across studies.
- 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 ### EHR tasks
 
@@ -45,6 +40,16 @@ can have multiple applications, including making aggregated census tract data on
 
 Using EHR data to evaluate patterns of specialty and emergency department use across subgroups and census tracts can also inform our understanding of inequities in health and health care use or quality (Beck et al. 2014, 2016; Rees et al. 2020).
 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
+
+
+
+### challenges of EHR
+
+because EHRs are primarily used for administrative purposes, their structure can complicate data extraction and coding for population health studie .Furthermore, while developing the coding scheme for health conditions can be complex for EHRs, this information can be shared across research teams to reduce burdens and ensure consistency of health condition definitions across studies.
+
+ information biases are introduced when patients seek specialized care outside of a health system or discontinue follow-up appointments, so that one system’s EHRs do not provide a full picture of individuals’ health profiles
+ 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 
