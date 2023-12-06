@@ -13,6 +13,11 @@ where c is the geographic unit (county or census tract), EHR count is the number
 
 ### Benefits of Combined Electronic healht records and Census/survey data
 
+ SDOH are utilized in clinical care and research studies by way of electronic health records (EHRs) which are the primary way to capture real-world data from providers on patient encounters in a health system [14]. EHRs provide a unique opportunity to study the relationship between SDOH and the management and outcomes of clinical diseases through real-world data (RWD). RWD captured in EHRs are used to develop real-world evidence (RWE) studies that analyze data and inform providers about the causes of different treatment strategies, disease risk, quality of life, and outcomes for different patients and populations
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.
+
 data domain in EHR --> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/table/T1/?report=objectonly
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
