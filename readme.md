@@ -22,9 +22,18 @@ Not simply a digital version of a paper record (127), EHRs can be linked to cont
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/. ]
 
+### challenges of EHR
+
+ ecause EHRs are primarily used for administrative purposes, their structure can complicate data extraction and coding for population health studie .Furthermore, while developing the coding scheme for health conditions can be complex for EHRs, this information can be shared across research teams to reduce burdens and ensure consistency of health condition definitions across studies.
+ 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
+
 ### EHR tasks
 
 Social scientists, health practitioners, and policymakers can use EHR data to evaluate the prevalence of chronic diseases among local children, to compare prevalence rates across subgroups and small geographic areas, and to examine changes in rates over time
+
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 ##### The utilization of EHR data:
 
