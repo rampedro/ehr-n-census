@@ -63,6 +63,8 @@ EHRs were originally developed for billing purposes. However, their purview has 
 
 
 
+Disease etiology. Whereas disease status is often well documented in EHRs, disease etiology, including fundamental causes of disease (70) (e.g., social, behavioral, environmental factors), is often not well documented
+
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
 
