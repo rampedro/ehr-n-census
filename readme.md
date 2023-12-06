@@ -18,8 +18,10 @@ Not simply a digital version of a paper record (127), EHRs can be linked to cont
 
 
 
-### bias of EHR use:
+### bias of EHR, and realtion to Neighbourhood :
 
 ability to access its services also shape entry into that health system such that the population included in EHRs is often not representative of the target population to whom reference is made (Bower et al. 2017). Prior work suggests that individual characteristics such as gender, age, race, ethnicity, socioeconomic status and health insurance coverage predict health system entry and utilization
+
+Characteristics of neighborhood are also associated with health system entry in ways that may bias EHR-based analyses. Measures of social cohesion, safety, and the built environment are associated with the use of primary care services
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/. ]
