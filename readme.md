@@ -30,6 +30,11 @@ Not simply a digital version of a paper record (127), EHRs can be linked to cont
 
 Researchers have used health insurance status (e.g., commercial versus Medicaid) as a proxy for individual socioeconomic status (SES) (13, 18, 36, 44, 67, 83) and have assigned neighborhood SES on the basis of the median income or an index of deprivation in patients’ communities (13,18,29,35,38). 
 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
+
+
+##### Recommendations for EHR DATA EXTENTIONS
+
 Although data on physical activity and other important behaviors and social risks are not routinely captured (2, 16), the Institute of Medicine has recommended that these and other domains be integrated into routine EHR data collection, including four existing (i.e., race/ethnicity, current address, alcohol use, and tobacco use) and eight new domains (e.g., stress, social isolation, physical activity) (27).
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
