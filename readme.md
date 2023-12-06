@@ -32,6 +32,10 @@ Researchers have used health insurance status (e.g., commercial versus Medicaid)
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
+A patient’s SDOH can be used to estimate their access to healthcare and treatments, their positive or negative health outcomes, and to assess comorbidities by using information related to an individual’s health including alcohol and tobacco usage, socioeconomic status, insurance status, living situation, access to healthy foods, access to health literacy, and access to quality of care [5]
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599320/.  
 
 ##### Recommendations for EHR DATA EXTENTIONS
 
