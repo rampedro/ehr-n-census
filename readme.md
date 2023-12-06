@@ -32,6 +32,10 @@ can have multiple applications, including making aggregated census tract data on
 
  EHRs can also be combined with contextual data accessed from data sources such as the ACS or through partnerships with community organizations to provide a multidimensional understanding of the relationship between individual and neighborhood characteristics and health outcomes.
 
+ large number ppl captured by the EHRs provide a unique opportunity to study small population subgroups and allow for meaningful population health comparisons across racial-ethnic, socioeconomic, and age groups
+
+Using EHR data to evaluate patterns of specialty and emergency department use across subgroups and census tracts can also inform our understanding of inequities in health and health care use or quality (Beck et al. 2014, 2016; Rees et al. 2020).
+
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9004253/  ]
 
 
