@@ -40,6 +40,12 @@ Although data on physical activity and other important behaviors and social risk
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
 
 
+#### Assembling Research Cohorts from EHR Data
+
+Researchers can use EHRs to form standard cohorts and to assemble groups of patients with specific diseases
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724703/]
+
 
 ### EHR tasks
 
@@ -62,7 +68,16 @@ Using EHR data to evaluate patterns of specialty and emergency department use ac
 
 
 
+## General challenges of large data :
+
+First, revealing all information at once will exceed human’s cognitive ability to conduct effective analysis.     Second, noises are prevalent in real-world datasets, thus the insights are common to contain artifacts as well. Thus, what analyst needs is a robust visualization technique that reveals the most general and salient patterns in the entire dataset.    
+
+[https://lliquid.github.io/homepage/files/draft_vis18_bico.pdf]
+
+
 ### challenges of EHR
+
+
 
 because EHRs are primarily used for administrative purposes, their structure can complicate data extraction and coding for population health studie .Furthermore, while developing the coding scheme for health conditions can be complex for EHRs, this information can be shared across research teams to reduce burdens and ensure consistency of health condition definitions across studies.
 
