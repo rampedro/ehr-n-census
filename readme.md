@@ -99,6 +99,12 @@ Using EHR data to evaluate patterns of specialty and emergency department use ac
 
 ## General challenges of large data :
 
+
+###Data quality :
+Depending on how data are captured, multiple sources may be needed to adequately support a study. In this case, an adjudication process is often necessary to decide what to do if there is discordance between sources (Rockhold et al 2020). Investigators should prepare to implement such a plan.
+
+[https://rethinkingclinicaltrials.org/chapters/conduct/acquiring-real-world-data/common-real-world-data-sources/]
+
 First, revealing all information at once will exceed human’s cognitive ability to conduct effective analysis.     Second, noises are prevalent in real-world datasets, thus the insights are common to contain artifacts as well. Thus, what analyst needs is a robust visualization technique that reveals the most general and salient patterns in the entire dataset.    
 
 [https://lliquid.github.io/homepage/files/draft_vis18_bico.pdf]
