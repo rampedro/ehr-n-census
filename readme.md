@@ -1,6 +1,13 @@
 # Directions EHR and public data
 
-### Creating new packages in R for Processing geo enabled EHR, & Census Data .
+Maybe create new packages in R for Processing geo enabled EHR, & Census Data .
+
+
+### What are real world data :
+
+EHR, Enivromental patient outcoems ,and etc .
+https://rethinkingclinicaltrials.org/chapters/conduct/acquiring-real-world-data/common-real-world-data-sources/
+
 
 ### Some Analytics for EHR and census data
 
