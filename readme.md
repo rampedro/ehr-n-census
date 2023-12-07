@@ -99,8 +99,17 @@ Using EHR data to evaluate patterns of specialty and emergency department use ac
 
 ## General challenges of large data :
 
+### connecting data:
 
-###Data quality :
+In addition, when combining study data with real-world data sources, some form of record linkage is usually required to match patients across sources. There are a number of techniques that can be used. Some rely on deterministic matches of clear-text identifiers, while others rely on probabilistic weighting of encrypted tokens generated from combinations of identifiers (such as first and last names, date of birth, and current zip code) (Grannis et al 2002; Durham et al 2010; Kum et al 2014; Setoguchi et al 2014; Durojaiye et al 2018; Karr et al 2019). Not all data holders are able to support all of these methods, so it is important to understand their capabilities, as well as the identifiers to which they have access. Study teams may then need to collect these same identifiers to allow for linkage to occur.
+
+((( We used build in geohashing/geo ID of canadian boundires )))
+(( aslo usisng patient study ID as the rellator among patient info ))
+( also used Location data to link p and geographicl aareas)
+
+[https://rethinkingclinicaltrials.org/chapters/conduct/acquiring-real-world-data/common-real-world-data-sources/]
+
+### Data quality :
 Depending on how data are captured, multiple sources may be needed to adequately support a study. In this case, an adjudication process is often necessary to decide what to do if there is discordance between sources (Rockhold et al 2020). Investigators should prepare to implement such a plan.
 
 [https://rethinkingclinicaltrials.org/chapters/conduct/acquiring-real-world-data/common-real-world-data-sources/]
